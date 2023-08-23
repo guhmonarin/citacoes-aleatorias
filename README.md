@@ -1,7 +1,3 @@
-Claro, aqui está um exemplo de README para o projeto pronto do Gerador de Citações Aleatórias, explicando o que é a aplicação, como ela funciona e quais tecnologias foram usadas.
-
----
-
 # Gerador de Citações Aleatórias
 
 Bem-vindo ao Gerador de Citações Aleatórias! Esta é uma aplicação web simples que exibe citações aleatórias toda vez que a página é carregada ou atualizada. É uma maneira divertida de obter uma dose diária de inspiração e reflexão.
