@@ -42,4 +42,4 @@ Este projeto é licenciado sob a [Licença MIT](LICENSE).
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se à vontade para entrar em contato através do email [gustavomonarin11@gmail.com].
+Se você tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se à vontade para entrar em contato através do email gustavomonarin11@gmail.com.
